@@ -7,14 +7,14 @@ As a third-year Computer Science student at Institut Teknologi Bandung, I am dee
 ## GitHub Stats
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ajason36&theme=darkhub&row=1" alt="ajason36" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sotul04&theme=darkhub&row=1" alt="sotul04" />
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajason36&theme=dracula" alt="ajason36" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sotul04&theme=dracula" alt="sotul04" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajason36&show_icons=true&locale=en&theme=tokyonight" alt="ajason36" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sotul04&show_icons=true&locale=en&theme=tokyonight" alt="sotul04" />
 </p>
 
 ## Languages and Tools
